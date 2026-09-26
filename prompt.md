@@ -1,4 +1,4 @@
-# 🍕 College Canteen Improvement Challenge — Step-by-Step Prompt
+#  College Canteen Improvement Challenge — Step-by-Step Prompt
 
 **Objective:** You are tasked with improving a college canteen for one week with a budget of **₹10,000**. Your goal is to create a comprehensive plan that maximizes profit, satisfies student demand, and uses the budget wisely.
 
